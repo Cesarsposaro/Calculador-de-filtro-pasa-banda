@@ -1,5 +1,5 @@
-# React js
+# Band pass filter React App
 
-En este repositorio podrán ver prácticas y aplicaciones web desarrolladas con React js
+Aplicación para calcular valores de componentes en filtros pasa banda.
 
-Here you will find some practices or web apps I made with React js
+React App developed to calculate component values within a band pass filter circuit.
